@@ -142,10 +142,10 @@ Now submit the pull request.
 5. [cheatsheet - use this if you are using terminal/cmd to talk to git](https://education.github.com/git-cheat-sheet-education.pdf)
 
 # **Happy coding**
-```html
+
 <p align="center">
-    <img width="400" src="https://i.ibb.co/Q9JDR11/LogoDark.png" alt="Material Bread logo">
+    <img width="400" src="https://i.ibb.co/Q9JDR11/LogoDark.png" alt="Hacktober Badge">
 </p>
-```
+
 
 
