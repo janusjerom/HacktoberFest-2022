@@ -144,8 +144,5 @@ Now submit the pull request.
 # **Happy coding**
 
 <p align="center">
-    <img width="400" src="https://i.ibb.co/Q9JDR11/LogoDark.png" alt="Hacktober Badge">
+    <img width="400" src="https://i.ibb.co/z7RC6L5/LogoDark.png" alt="Hacktober Badge">
 </p>
-
-
-
