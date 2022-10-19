@@ -1,4 +1,4 @@
-# HacktoberFest-2021
+# HacktoberFest-2022
 ![](Assets/BannerDark.png)
 
 # Table of Contents
