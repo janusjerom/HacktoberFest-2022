@@ -1,3 +1,6 @@
+// Michael Armes
+// A program to change the console background color based on user's input
+
 namespace CSharpFun
 {
     public class Picker
