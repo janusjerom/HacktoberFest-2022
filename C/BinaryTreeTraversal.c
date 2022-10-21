@@ -1,3 +1,6 @@
+//Mohd. Asim Khan
+// Binary Tree Traversal in C
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
