@@ -1,3 +1,6 @@
+//neosandeep
+//queues in c
+
 #include<stdio.h>
 #define size 20
 
