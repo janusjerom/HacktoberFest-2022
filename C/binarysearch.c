@@ -1,3 +1,6 @@
+// Angel V Saji
+// Program for Binary Search 
+
 #include <stdio.h>  
 int binarySearch(int a[], int beg, int end, int val)    
 {    
